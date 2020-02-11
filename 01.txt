@@ -1,50 +1,50 @@
-San Jose	214.05
-Fort Worth	153.57
-San Diego	66.08
-Pittsburgh	493.51
-Omaha	235.63
-Stockton	247.18
-Austin	379.6
-New York	296.8
-Corpus Christi	25.38
-Fort Worth	213.88
-Las Vegas	53.26
-Newark	39.75
-Austin	469.63
-Greensboro	290.82
-San Francisco	260.65
-Lincoln	136.9
-Buffalo	483.82
-San Jose	215.82
-Boston	418.94
-Houston	309.16
-Las Vegas	93.39
-Virginia Beach	376.11
-Riverside	252.88
-Tulsa	205.06
-Reno	88.25
-Chicago	31.08
-Fort Wayne	370.55
-San Bernardino	170.2
-Madison	16.78
-Austin	327.75
-Portland	108.69
-Riverside	15.41
-Reno	80.46
-Anchorage	298.86
-Pittsburgh	475.26
-Spokane	3.85
-Spokane	287.65
-Fresno	466.64
-Omaha	255.68
-Anchorage	6.38
-Aurora	117.81
-Philadelphia	351.31
-Fremont	222.61
-Anchorage	22.36
-Norfolk	189.01
-Chandler	414.08
-Minneapolis	182.05
-Honolulu	345.18
-Indianapolis	135.96
-Chandler	344.09
+Men's Clothing	214.05
+Women's Clothing	153.57
+Music	66.08
+Pet Supplies	493.51
+Children's Clothing	235.63
+Men's Clothing	247.18
+Cameras	379.6
+Consumer Electronics	296.8
+Toys	25.38
+Toys	213.88
+Video Games	53.26
+Video Games	39.75
+Cameras	469.63
+DVDs	290.82
+Music	260.65
+Garden	136.9
+Women's Clothing	483.82
+Women's Clothing	215.82
+Cameras	418.94
+Baby	309.16
+Books	93.39
+Children's Clothing	376.11
+Consumer Electronics	252.88
+Baby	205.06
+Crafts	88.25
+Books	31.08
+Men's Clothing	370.55
+Consumer Electronics	170.2
+Men's Clothing	16.78
+Sporting Goods	327.75
+CDs	108.69
+Sporting Goods	15.41
+Toys	80.46
+Music	298.86
+Sporting Goods	475.26
+Garden	3.85
+Computers	287.65
+CDs	466.64
+Baby	255.68
+DVDs	6.38
+Consumer Electronics	117.81
+DVDs	351.31
+Baby	222.61
+Crafts	22.36
+Women's Clothing	189.01
+Books	414.08
+Computers	182.05
+Cameras	345.18
+Books	135.96
+Books	344.09

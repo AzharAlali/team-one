@@ -3,22 +3,27 @@ r = open("r.txt", "w")
 
 thisKey = ""
 thisValue = 0.0
+max = 0.0
 
 for line in s:
   data = line.strip().split('\t')
-  store, amount = data
+  item, amount = data
 
-  if store != thisKey:
+  if item != thisKey:
     if thisKey:
       # output the last key value pair result
       r.write(thisKey + '\t' + str(thisValue)+'\n')
+    
 
     # start over when changing keys
-    thisKey = store 
+    thisKey = item 
     thisValue = 0.0
+
   
   # apply the aggregation function
-  thisValue += float(amount)
+  #thisValue += float(amount)
+  if float(amount) > max:
+    thisValue = float(amount)  
 
 # output the final entry when done
 r.write(thisKey + '\t' + str(thisValue)+'\n')
